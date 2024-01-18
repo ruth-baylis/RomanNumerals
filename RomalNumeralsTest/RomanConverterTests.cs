@@ -55,7 +55,7 @@ namespace RomalNumeralsTest
         }
 
         [Test]
-        public void Input_2000_Correctly_Converted()
+        public void Input_2000_Is_Correctly_Converted()
         {
             var input = 2000;
 
@@ -65,7 +65,7 @@ namespace RomalNumeralsTest
         }
 
         [Test]
-        public void Input_492_Correctly_Converted()
+        public void Input_492_Is_Correctly_Converted()
         {
             var input = 492;
 
@@ -75,7 +75,7 @@ namespace RomalNumeralsTest
         }
 
         [Test]
-        public void Input_63_Correctly_Converted()
+        public void Input_63_Is_Correctly_Converted()
         {
             var input = 63;
 
